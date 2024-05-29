@@ -1,7 +1,11 @@
+# Node.js's all the files which are required to run an application
 node_modules
 
+# app's all packages are available and distributed over there automatically
 .next
 
+# env file is to store sensitive Data which cant be published
 .env
 
+# Constantly changes automatically
 .DS_Store
