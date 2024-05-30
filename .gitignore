@@ -9,3 +9,5 @@ node_modules
 
 # Constantly changes automatically
 .DS_Store
+
+.package-lock.json
